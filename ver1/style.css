@@ -24,6 +24,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Código Essencial */
 .modal-container{
     display: flex;
     width: 100%;
@@ -35,7 +36,6 @@ body{
 }
 
 
-/* Código Essencial */
 .button{
     padding: 1rem 2rem;
     border-radius: .3rem;
